@@ -37,7 +37,7 @@ const NotFoundPage = () => {
             Go back home
           </Link>
           <a
-            href="#"
+            href="mailto:support@example.com"
             className="text-sm font-semibold text-gray-900 hover:text-indigo-600"
           >
             Contact support <span aria-hidden="true">&rarr;</span>
